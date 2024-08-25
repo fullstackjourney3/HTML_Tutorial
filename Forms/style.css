@@ -1,0 +1,26 @@
+h1 {
+  background-color: blanchedalmond;
+  margin: 5px;
+  width: 100%;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
+p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+}
+
+.form_wrapper {
+    background-color:cadetblue;
+    font-family: "Open Sans", sans-serif;
+    font-size: large;
+}
+
+.login_button button {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10%;
+    border-color: rgb(154, 70, 10);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}

@@ -1,0 +1,18 @@
+.header_style {
+    display: inline-block;
+    width: 100%;
+    border-color: brown;
+    
+}
+
+.header_style h1 {
+    text-align: center;
+    padding: 20px;
+    background-color:bisque;
+}
+
+.header_style nav {
+   float:inline-end;
+   margin: 2px;
+}
+
